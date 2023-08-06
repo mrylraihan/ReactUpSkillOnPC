@@ -2,7 +2,7 @@ import React from 'react'
 
 function More() {
   return (
-    <div>More</div>
+    <div className='app'>More</div>
   )
 }
 
